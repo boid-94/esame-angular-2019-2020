@@ -1,0 +1,46 @@
+#container, #list{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+#list{
+    margin-top: 60px;
+}
+
+h1{
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+#formContainer{
+    display: flex;
+}
+
+#add{
+    margin-right: 20px;
+}
+
+#check{
+    width: 18px;
+    height: 18px;
+}
+
+.fa fa-trash{
+    font-family: "Font Awesome 5 Free";
+    display: block;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+h5{
+    display: flex;
+    justify-content: space-between;
+}
+
+i{
+    display: inline-block;
+    cursor: pointer;
+    color: #007bff;
+}
+
